@@ -1,0 +1,47 @@
+h1 {
+	color: #AECFCE;
+font-size: 30px ;
+}
+
+div {
+	background-color: rgb(250, 0, 0);
+	text-align: center;
+	margin-top: 70px;
+	margin-bottom: 70;
+	margin-right: 50;
+	margin-left: 100;
+	padding: 50px;
+	border: solid 5px #4d8A88;
+	border-radius : 5px;
+	box-shadow: 8px, 8px, 12px grey ;
+
+}
+
+body {
+	background-color: rgb(200, 200, 200);
+
+}
+
+p {font-weight : bold;}
+
+img {
+	width:100px;
+}
+
+
+
+#avatar {
+	width: 100px;
+}
+
+.network{width: 50px;
+}
+
+.shadow {
+	box-shadow: 8px, 8px, 12px grey;
+}
+.icon-network{
+	font-size: 50px;
+	color: blue;
+	text-decoration: none;
+}
